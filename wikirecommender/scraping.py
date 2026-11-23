@@ -9,7 +9,6 @@ from typing import Tuple
 from collections import deque
 from urllib.parse import urljoin, urlparse, unquote
 
-# Leave the github link unchanged, or replace it with your own repo (recommended)
 WIKIPEDIA_HEADERS = {"User-Agent": "WikiRecommender/0.1 (https://github.com/letamquang-ai/Wiki_recommend.git)"}
 
 
